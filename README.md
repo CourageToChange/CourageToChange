@@ -12,9 +12,9 @@ I am a London-based career-changer targeting SOC Analyst Tier 1, Junior Cybersec
 
 **Private Photo & File Migration** — A privacy-first project moving personal photos and files into a self-hosted environment under direct ownership and control.
 
-**Patchwork** — A live mood-board and visual-canvas PWA built for Elizabeth from her original idea, delivered by directing an AI engineering team. Public repo: https://github.com/CourageToChange/patchwork
+**Patchwork** — A live mood-board and visual-canvas PWA built for my partner from their original idea, delivered by directing an AI engineering team. Public repo: https://github.com/CourageToChange/patchwork
 
-**Bloom** — A live, invite-only daily-puzzle PWA built for Elizabeth and operated as a self-hosted application.
+**Bloom** — A live, invite-only daily-puzzle PWA built for my partner and operated as a self-hosted application.
 
 ---
 
