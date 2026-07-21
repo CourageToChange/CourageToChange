@@ -12,8 +12,9 @@ cybersecurity or IT: SOC Tier 1, junior analyst, or a service desk.
 
 ## Things I've built
 
-**Home server and security lab** — Six services on Proxmox: media, network-wide DNS
-filtering, private photo backup, e-books, reverse proxy. Key-only SSH, default-deny
+**Home server and security lab** — Six isolated containers on Proxmox: media, network-wide
+DNS filtering, private photo backup, e-books, a reverse proxy, and a read-only operations
+console I built for the server itself. Key-only SSH, default-deny
 firewall, fail2ban, 2FA, TLS, and backups that get checked nightly to make sure they'd
 actually restore. My portfolio is served off it, so if you can read this page, it's
 working: <https://noor.noorfamily.uk/>
@@ -30,7 +31,7 @@ reviewed for security. The review found a score endpoint anyone could call, an u
 WebSocket payload, and a rate-limit that was counting the CDN instead of the visitor.
 <https://snake.noorfamily.uk/>
 
-**Bloom** — A daily-puzzle app I made for my wife. No timers, no streaks, nothing that
+**Bloom** — A daily-puzzle app built for one person who uses it every day. No timers, no streaks, nothing that
 guilts you into coming back. Runs privately on my server, invite-only.
 
 **Photo and file migration** — Thousands of photos moved off iCloud and Google onto
