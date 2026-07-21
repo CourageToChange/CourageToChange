@@ -14,7 +14,7 @@ cybersecurity or IT: SOC Tier 1, junior analyst, or a service desk.
 
 **Home server and security lab** — Six isolated containers on Proxmox: media, network-wide
 DNS filtering, private photo backup, e-books, a reverse proxy, and a read-only operations
-console I built for the server itself. Key-only SSH, default-deny
+console I built with an AI coding agent. Key-only SSH, default-deny
 firewall, fail2ban, 2FA, TLS, and backups that get checked nightly to make sure they'd
 actually restore. My portfolio is served off it, so if you can read this page, it's
 working: <https://noor.noorfamily.uk/>
