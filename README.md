@@ -23,8 +23,8 @@ working: <https://noor.noorfamily.uk/>
 for her knitting and clothes-making ideas. Her idea, her direction. I built it by running
 a team of AI coding agents: I wrote the specs, split the work between them, made them
 review each other, and reviewed and browser-tested every change myself before it shipped.
-The agents wrote most of the code. Deciding what was correct and what was safe didn't
-leave me.
+They wrote most of the code. The judgement about what was correct and what was safe
+stayed with me.
 
 **Retro Snake Arena** — A multiplayer browser game I deployed on my own server, then
 reviewed for security. The review found a score endpoint anyone could call, an uncapped
