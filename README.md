@@ -26,12 +26,12 @@ review each other, and reviewed and browser-tested every change myself before it
 They wrote most of the code. The judgement about what was correct and what was safe
 stayed with me.
 
-**Retro Snake Arena** — A multiplayer browser game I deployed on my own server, then
-reviewed for security. The review found a score endpoint anyone could call, an uncapped
-WebSocket payload, and a rate-limit that was counting the CDN instead of the visitor.
+**Retro Snake Arena** — Three single-player modes, built by directing AI coding agents and
+hosted on my own server. I did the security review myself and it turned up three things worth
+fixing, which was the point. It started out multiplayer; taking that out made it better.
 <https://snake.noorfamily.uk/>
 
-**Bloom** — A daily-puzzle app built for one person who uses it every day. No timers, no streaks, nothing that
+**Bloom** — A daily-puzzle app with one real daily user. No timers, no streaks, nothing that
 guilts you into coming back. Runs privately on my server, invite-only.
 
 **Photo and file migration** — Thousands of photos moved off iCloud and Google onto
