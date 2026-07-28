@@ -4,8 +4,8 @@
 
 I built a server in my house and now my wife and four of my friends won't get off it.
 
-That's most of what I do outside work. It started because I didn't want to keep paying
-Google and Apple to hold our photos, and it turned into the thing I learn on — six
+That's most of what I do outside work. It started as a way to stop renting our own photos
+back from Google, and turned into the thing I learn on — six
 isolated services on Proxmox, locked down properly, hosting everything I build. I'm a
 Security Officer at the British Museum at the moment and I'm looking for my first role in
 cybersecurity or IT: SOC Tier 1, junior analyst, or a service desk.
