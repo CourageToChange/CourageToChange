@@ -5,16 +5,18 @@
 I built a server in my house and now my wife and four of my friends won't get off it.
 
 That's most of what I do outside work. It started as a way to stop renting our own photos
-back from Google, and turned into the thing I learn on — six
+back from Google, and turned into the thing I learn on — seven
 isolated services on Proxmox, locked down properly, hosting everything I build. I'm a
 Security Officer at the British Museum at the moment and I'm looking for my first role in
 cybersecurity or IT: SOC Tier 1, junior analyst, or a service desk.
 
 ## Things I've built
 
-**Home server and security lab** — Six isolated containers on Proxmox: media, network-wide
-DNS filtering, private photo backup, e-books, a reverse proxy, and a read-only operations
-console I built with an AI coding agent. Key-only SSH, default-deny
+**Home server and security lab** — Seven isolated containers on Proxmox: media, network-wide
+DNS filtering, private photo backup, e-books, a reverse proxy, a read-only operations console
+I built with an AI coding agent ([demo on made-up data](https://signal-demo.noorfamily.uk/),
+[source](https://github.com/CourageToChange/signal-room)), and one that holds nothing but the
+public demos, kept away from everything else. Key-only SSH, default-deny
 firewall, fail2ban, 2FA, TLS, and backups that get checked nightly to make sure they'd
 actually restore. My portfolio is served off it, so if you can read this page, it's
 working: <https://noor.noorfamily.uk/>
@@ -26,13 +28,14 @@ review each other, and reviewed and browser-tested every change myself before it
 They wrote most of the code. The judgement about what was correct and what was safe
 stayed with me.
 
-**Retro Snake Arena** — Three single-player modes, built by directing AI coding agents and
+**[Retro Snake Arena](https://github.com/CourageToChange/retro-snake-arena)** — Three single-player modes, built by directing AI coding agents and
 hosted on my own server. I did the security review myself and it turned up three things worth
 fixing, which was the point. It started out multiplayer; taking that out made it better.
 <https://snake.noorfamily.uk/>
 
-**Bloom** — A daily-puzzle app with one real daily user. No timers, no streaks, nothing that
-guilts you into coming back. Runs privately on my server, invite-only.
+**[Bloom](https://github.com/CourageToChange/bloom)** — A daily-puzzle app with one real daily
+user. No timers, no streaks, nothing that guilts you into coming back. The real one is
+invite-only on my server; there's a [demo you can try](https://bloom-demo.noorfamily.uk/).
 
 **Photo and file migration** — Thousands of photos moved off iCloud and Google onto
 hardware I own, de-duplicated, metadata intact.
