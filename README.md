@@ -6,14 +6,15 @@ I built a server in my house and now my wife and four of my friends won't get of
 
 That's most of what I do outside work. It started as a way to stop renting our own photos
 back from Google, and turned into the thing I learn on — seven
-isolated services on Proxmox, locked down properly, hosting everything I build. I'm a
+isolated containers on Proxmox, locked down properly, hosting everything I build. I'm a
 Security Officer at the British Museum at the moment and I'm looking for my first role in
 cybersecurity or IT: SOC Tier 1, junior analyst, or a service desk.
 
 ## Things I've built
 
 **Home server and security lab** — Seven isolated containers on Proxmox: media, network-wide
-DNS filtering, private photo backup, e-books, a reverse proxy, a read-only operations console
+DNS filtering, private photo backup, e-books, one container holding the apps I've built, a
+read-only operations console
 I built with an AI coding agent ([demo on made-up data](https://signal-demo.noorfamily.uk/),
 [source](https://github.com/CourageToChange/signal-room)), and one that holds nothing but the
 public demos, kept away from everything else. Key-only SSH, default-deny
