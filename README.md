@@ -2,13 +2,13 @@
 
 **CompTIA Security+ | Entry-Level Cybersecurity and IT Support | London**
 
-I built a server in my house and now my wife and four of my friends won't get off it.
+My wife and four of my friends won't get off the server I built in my house. That's most of
+what I do outside work: seven isolated containers on Proxmox, locked down properly, hosting
+everything I build.
 
-That's most of what I do outside work. It started as a way to stop renting our own photos
-back from Google, and turned into the thing I learn on — seven
-isolated containers on Proxmox, locked down properly, hosting everything I build. I'm a
-Security Officer at the British Museum at the moment and I'm looking for my first role in
-cybersecurity or IT: SOC Tier 1, junior analyst, or a service desk.
+It started because I got tired of renting our own photos back from Google. Right now I'm a
+Security Officer at the British Museum, looking for my first role in cybersecurity or IT:
+SOC Tier 1, junior analyst, or a service desk.
 
 ## Things I've built
 
@@ -41,7 +41,7 @@ invite-only on my server; there's a [demo you can try](https://bloom-demo.noorfa
 **Photo and file migration** — Thousands of photos moved off iCloud and Google onto
 hardware I own, de-duplicated, metadata intact.
 
-Smaller things are in the repo list — including
+Smaller things are in the repo list, including
 [my first ever program](https://github.com/CourageToChange/password-strength-checker), a
 password checker in C, which sat here as an empty repo for years because my first `git
 push` silently failed and I never checked.
