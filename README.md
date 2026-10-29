@@ -3,7 +3,7 @@
 **CompTIA Security+ | Entry-Level Cybersecurity and IT Support | London**
 
 My wife and four of my friends won't get off the server I built in my house. That's most of
-what I do outside work: seven isolated containers on Proxmox, locked down properly, hosting
+what I do outside work: seven containers on Proxmox, locked down properly, hosting
 everything I build.
 
 It started because I got tired of renting our own photos back from Google. Right now I'm a
@@ -12,7 +12,7 @@ SOC Tier 1, junior analyst, or a service desk.
 
 ## Things I've built
 
-**Home server and security lab** — Seven isolated containers on Proxmox: media, network-wide
+**Home server and security lab** — Seven unprivileged LXC containers: media, network-wide
 DNS filtering, private photo backup, e-books, one container holding the apps I've built, a
 read-only operations console
 I built with an AI coding agent ([demo on made-up data](https://signal-demo.noorfamily.uk/),
