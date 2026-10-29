@@ -34,8 +34,8 @@ hosted on my own server. I did the security review myself and it turned up three
 fixing, which was the point. It started out multiplayer; taking that out made it better.
 <https://snake.noorfamily.uk/>
 
-**[Bloom](https://github.com/CourageToChange/bloom)** — A daily-puzzle app with one real daily
-user. No timers, no streaks, nothing that guilts you into coming back. The real one is
+**[Bloom](https://github.com/CourageToChange/bloom)** — A daily-puzzle app. No timers, no
+streaks, nothing that guilts you into coming back. The real one is
 invite-only on my server; there's a [demo you can try](https://bloom-demo.noorfamily.uk/).
 
 **Photo and file migration** — Thousands of photos moved off iCloud and Google onto
